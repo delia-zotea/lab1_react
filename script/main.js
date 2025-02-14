@@ -9,3 +9,10 @@ console.log(`Diferența: ${scadere(numar1, numar2)}`);
 
 import bunaDelia from '../salutari.js';
 bunaDelia();
+
+
+import * as dateUtilizator from '.dateUtilizator.js';
+
+console.log(dateUtilizator.nume);  
+console.log(dateUtilizator.varsta);  
+dateUtilizator.afiseazaUtilizator();  
