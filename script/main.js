@@ -5,3 +5,7 @@ const numar2 = 5;
 
 console.log(`Suma: ${adunare(numar1, numar2)}`);
 console.log(`Diferența: ${scadere(numar1, numar2)}`);
+
+
+import bunaDelia from '../salutari.js';
+bunaDelia();
