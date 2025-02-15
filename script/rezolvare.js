@@ -492,3 +492,6 @@ Promise.all(promisiuni)
 
 
 console.log('test')
+
+console.log('generarea unei liste de cumparaturi')
+console.log('generarea unei liste de cumparaturi 2')
