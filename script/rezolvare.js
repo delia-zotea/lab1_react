@@ -491,3 +491,4 @@ Promise.all(promisiuni)
     .catch((error) => console.log("Eroare în Promise.all:", error));
 
 
+console.log('test')
